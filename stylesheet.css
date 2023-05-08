@@ -38,3 +38,12 @@ img {
         flex-direction: column !important;
     }
 }
+
+
+ul {
+    list-style-type: circle;
+}
+
+li {
+    margin-top: 30px;
+}
