@@ -1,0 +1,801 @@
+,full_name,freq,genre
+0,Bruce Fogle,361,applied_science
+1,  World Health Organization,349,applied_science
+2,Miriam Stoppard,342,applied_science
+3,Kenneth Blanchard,331,applied_science
+4,Deepak Chopra,310,applied_science
+5,  Microsoft Corporation,274,applied_science
+6,Hans-Rüdiger Etzold,250,applied_science
+7,Peter Ferdinand Drucker,220,applied_science
+8,Peter J. D'Adamo,203,applied_science
+9,Steve Parker,202,applied_science
+10,Hugh Johnson,201,applied_science
+11,  Reader's digest,200,applied_science
+12,Dan Gookin,199,applied_science
+13,  International Business Machines,178,applied_science
+14,Elizabeth Fenwick,177,applied_science
+15,Philip Kotler,173,applied_science
+16,David Alderton,170,applied_science
+17,David Gerald Hessayon,167,applied_science
+18,Maria Treben,160,applied_science
+19,Robert C. Atkins,157,applied_science
+20,  United States,150,applied_science
+21,Arlene Eisenberg,149,applied_science
+22,Oliver Sacks,148,applied_science
+23,Jean Carper,148,applied_science
+24,Ian Graham,147,applied_science
+25,Michel Montignac,145,applied_science
+26,Anne Willan,143,applied_science
+27,Annette Wolter,141,applied_science
+28,Anne Wilson,140,applied_science
+29,  Dr. Oetker,140,applied_science
+30,Anne Hooper,137,applied_science
+31,Andy Rathbone,136,applied_science
+32,David Taylor,135,applied_science
+33,Mantak Chia,131,applied_science
+34,Andrew Weil,129,applied_science
+35,Louise L. Hay,128,applied_science
+36,Kris Jamsa,128,applied_science
+37,Christian Teubner,126,applied_science
+38,Allen Carr,124,applied_science
+39,Peter Norton,123,applied_science
+40,Stephen L. Nelson,123,applied_science
+41,Sheila Kitzinger,122,applied_science
+42,Maurice Mességué,120,applied_science
+43,Earl L. Mindell,117,applied_science
+44,Jamie Oliver,116,applied_science
+45,Herbert Schildt,115,applied_science
+46,Michio Kushi,115,applied_science
+47,"  Catapult, Inc.",114,applied_science
+48,Thomas J. Peters,112,applied_science
+49,Benjamin Spock,111,applied_science
+50,Jill Norman,111,applied_science
+51,Scott Adams,111,applied_science
+52,Gennadij Petrovič Malahov,111,applied_science
+53,Alan Simpson,110,applied_science
+54,Viktor Emil Frankl,108,applied_science
+55,  Organization for Economic Co-operation and Development,107,applied_science
+56,John Seymour,102,applied_science
+57,John Brookes,102,applied_science
+58,Angela Wilkes,99,applied_science
+59,Frédérick Leboyer,99,applied_science
+60,Harvey Diamond,98,applied_science
+61,Bill Gunston,98,applied_science
+62,Al Ries,96,applied_science
+63,Michael Jackson,95,applied_science
+64,Frank Henry Netter,91,applied_science
+65,Greg Harvey,90,applied_science
+66,Alexander Lowen,89,applied_science
+67,Malcolm Hillier,87,applied_science
+68,  Food and Agriculture Organization,87,applied_science
+69,Brian Tracy,85,applied_science
+70,Alex Comfort,83,applied_science
+71,Cornelia Adam,83,applied_science
+72,Rob Herwig,82,applied_science
+73,Van Wolverton,81,applied_science
+74,  Sweden,80,applied_science
+75,Deke McClelland,79,applied_science
+76,Desmond Morris,79,applied_science
+77,Angela Royston,78,applied_science
+78,Robert Heller,78,applied_science
+79,Tinsley Randolph Harrison,77,applied_science
+80,Rüdiger Dahlke,77,applied_science
+81,  American Psychiatric Association,76,applied_science
+82,Vernon Coleman,75,applied_science
+83,Dick Mills,74,applied_science
+84,Greg M. Perry,73,applied_science
+85,Penelope Leach,73,applied_science
+86,  International Institute of Management LINK,72,applied_science
+87,Michael B. Karbo,72,applied_science
+88,Patrick Holford,72,applied_science
+89,James Tyler Kent,71,applied_science
+90,Oz Clarke,70,applied_science
+91,Rodnay Zaks,70,applied_science
+92,Samm Sinclair Baker,70,applied_science
+93,John P. Kotter,70,applied_science
+94,  Vātsyāyana,70,applied_science
+95,Arthur C. Guyton,69,applied_science
+96,Spencer Johnson,68,applied_science
+97,Irvin D. Yalom,68,applied_science
+98,Peter Mayle,67,applied_science
+99,James Herriot,67,applied_science
+0,Isaac Asimov,442,exact_science
+1,Jurij Nikolaevič Makaryčev,388,exact_science
+2,Marija Ignat'evna Moro,330,exact_science
+3,Steve Parker,320,exact_science
+4,Stephen W. Hawking,318,exact_science
+5,Desmond Morris,284,exact_science
+6,Marija Aleksandrovna Bantova,280,exact_science
+7,David Burnie,266,exact_science
+8,Boris Borisovič Buhovcev,260,exact_science
+9,Andrej Nikolaevič Kolmogorov,236,exact_science
+10,Richard Phillips Feynman,232,exact_science
+11,Charles Robert Darwin,230,exact_science
+12,David Arkad'evič E̊pštejn,223,exact_science
+13,Albert Einstein,186,exact_science
+14,John Gribbin,184,exact_science
+15,Aleksandr Vasil'evič Peryškin,182,exact_science
+16,Anita Ganeri,174,exact_science
+17,Stephen Jay Gould,171,exact_science
+18,Zoja Aleksandrovna Klepinina,163,exact_science
+19,Paul Charles William Davies,160,exact_science
+20,Michael Chinery,155,exact_science
+21,Naum Jakovlevič Vilenkin,154,exact_science
+22,Aleksej Vasil'evič Pogorelov,150,exact_science
+23,Jakov Isidorovič Perel'man,150,exact_science
+24,Lev Davidovič Landau,148,exact_science
+25,Peter William Atkins,146,exact_science
+26,Barbara Taylor,140,exact_science
+27,Richard Dawkins,139,exact_science
+28,Martin Gardner,138,exact_science
+29,Ljudmila Petrovna Čistova,132,exact_science
+30,Neil Ardley,132,exact_science
+31,Carl Sagan,131,exact_science
+32,Abram Konstantinovič Kikoin,129,exact_science
+33,Gerald Durrell,129,exact_science
+34,Nick Arnold,122,exact_science
+35,Jurij Ivanovič Poljanskij,119,exact_science
+36,Anna Moiseevna Cuzmer,116,exact_science
+37,Aleksandr Semenovič Česnokov,115,exact_science
+38,Leonid Aleksandrovič Cvetkov,113,exact_science
+39,Jean-Henri Fabre,109,exact_science
+40,Vera Aleksandrovna Korčagina,109,exact_science
+41,Boris Evseevič Byhovskij,108,exact_science
+42,Aleksandr Spiridonovič Pčelko,108,exact_science
+43,Robin Kerrod,104,exact_science
+44,David Lambert,102,exact_science
+45,David Attenborough,102,exact_science
+46,Boris Aleksandrovič Voroncov-Vel'jaminov,100,exact_science
+47,John Farndon,100,exact_science
+48,Patrick Moore,98,exact_science
+49,Steven Weinberg,97,exact_science
+50,Rinaldo D. D'Ami,94,exact_science
+51,Konrad Lorenz,92,exact_science
+52,Michel Cuisin,90,exact_science
+53,Andrej Pavlovič Rymkevič,88,exact_science
+54,Dougal Dixon,88,exact_science
+55,David Halliday,84,exact_science
+56,Mihail Il'ič Jagodovskij,83,exact_science
+57,Jinny Johnson,83,exact_science
+58,Aleksandr Isaakovič Kitajgorodskij,82,exact_science
+59,Richard E. Leakey,81,exact_science
+60,Bobbie Kalman,81,exact_science
+61,Ilya Prigogine,80,exact_science
+62,Ian Stewart,79,exact_science
+63,Michael Bright,77,exact_science
+64,Jacques-Yves Cousteau,77,exact_science
+65,Duško Ačovski,74,exact_science
+66,Vladimir Igorevič Arnol'd,74,exact_science
+67,Terry Jennings,73,exact_science
+68,John D. Barrow,72,exact_science
+69,Galina Nikolaevna Akvileva,71,exact_science
+70,Jane Burton,71,exact_science
+71,Caius Plinius Secundus,70,exact_science
+72,Sally Morgan,70,exact_science
+73,Enn Nurk,70,exact_science
+74,Alexandra Parsons,69,exact_science
+75,Robert Snedden,66,exact_science
+76,  Renmin jiaoyu chubanshe,65,exact_science
+77,James Dewey Watson,65,exact_science
+78,Theresa Greenaway,65,exact_science
+79,Hubert Reeves,65,exact_science
+80,Galileo Galilei,64,exact_science
+81,Simon Singh,63,exact_science
+82,Angela Wilkes,63,exact_science
+83,Angela Royston,62,exact_science
+84,Fric Genrihovič Fel'dman,61,exact_science
+85,Maurice Burton,61,exact_science
+86,Rupert Hochleitner,60,exact_science
+87,Helga Hofmann,59,exact_science
+88,Werner Heisenberg,58,exact_science
+89,Ian Ridpath,57,exact_science
+90,Vladimir Modestovič Bradis,57,exact_science
+91,Nigel Calder,57,exact_science
+92,Carole Stott,56,exact_science
+93,Michael Allaby,56,exact_science
+94,Jack Challoner,56,exact_science
+95,Edward Osborne Wilson,56,exact_science
+96,Rupert Matthews,56,exact_science
+97,Isaac Newton,55,exact_science
+98,Jiří Felix,55,exact_science
+99,Gary Cross,55,exact_science
+0,Vladimir Il'ič Lenin,3218,law_social_sciences_education
+1,Friedrich Engels,1194,law_social_sciences_education
+2,  Kommunističeskaja Partija Sovetskogo Sojuza,974,law_social_sciences_education
+3,  Union of Soviet Socialist Republics,848,law_social_sciences_education
+4,Mihail Sergeevič Gorbačev,813,law_social_sciences_education
+5,Karl Marx,694,law_social_sciences_education
+6,Zedong Mao,490,law_social_sciences_education
+7,Leonid Il'ič Brežnev,481,law_social_sciences_education
+8,Niccolò Machiavelli,421,law_social_sciences_education
+9,Nicolae Ceauşescu,406,law_social_sciences_education
+10,  Amnesty International,369,law_social_sciences_education
+11,Saddam Hussein,350,law_social_sciences_education
+12,Noam Chomsky,297,law_social_sciences_education
+13,Pierre Bourdieu,289,law_social_sciences_education
+14,Jean-Jacques Rousseau,282,law_social_sciences_education
+15,John Kenneth Galbraith,265,law_social_sciences_education
+16,Max Weber,249,law_social_sciences_education
+17,Anthony Giddens,239,law_social_sciences_education
+18,Claude Lévi-Strauss,229,law_social_sciences_education
+19,  Organization for Economic Co-operation and Development,226,law_social_sciences_education
+20,"  Moldova, Republic of",226,law_social_sciences_education
+21,Konstantin Ustinovič Černenko,225,law_social_sciences_education
+22,Peter Ferdinand Drucker,223,law_social_sciences_education
+23,Robert T. Kiyosaki,210,law_social_sciences_education
+24,  Estonia,209,law_social_sciences_education
+25,  Sweden,208,law_social_sciences_education
+26,  Minzu chubanshe,202,law_social_sciences_education
+27,Thomas Gordon,202,law_social_sciences_education
+28,Carlos Castaneda,200,law_social_sciences_education
+29,"  Germany, Federal Republic of",188,law_social_sciences_education
+30,Rudolf Steiner,183,law_social_sciences_education
+31,Friedrich August von Hayek,182,law_social_sciences_education
+32,Émile Durkheim,180,law_social_sciences_education
+33,Zygmunt Bauman,172,law_social_sciences_education
+34,Enver Hoxha,169,law_social_sciences_education
+35,  Welsh Assembly Government,168,law_social_sciences_education
+36,  Sunzi,168,law_social_sciences_education
+37,  Xinjiang renmin chubanshe,168,law_social_sciences_education
+38,Iosif Vissarionovič Stalin,167,law_social_sciences_education
+39,Jürgen Habermas,166,law_social_sciences_education
+40,Michel Foucault,164,law_social_sciences_education
+41,  United Nations,164,law_social_sciences_education
+42,Jurij Vladimirovič Andropov,158,law_social_sciences_education
+43,Jacob Grimm,156,law_social_sciences_education
+44,Alvin Toffler,154,law_social_sciences_education
+45,Hannah Arendt,154,law_social_sciences_education
+46,John Gray,153,law_social_sciences_education
+47,Peter L. Berger,142,law_social_sciences_education
+48,Norberto Bobbio,138,law_social_sciences_education
+49,  Hungary,136,law_social_sciences_education
+50,  United States,132,law_social_sciences_education
+51,Norbert Elias,130,law_social_sciences_education
+52,Georgij Hosroevič Šahnazarov,127,law_social_sciences_education
+53,Paul R. Krugman,126,law_social_sciences_education
+54,Erich Fromm,124,law_social_sciences_education
+55,Maria Montessori,122,law_social_sciences_education
+56,Josip Broz Tito,120,law_social_sciences_education
+57,George Soros,116,law_social_sciences_education
+58,Eric John Hobsbawm,116,law_social_sciences_education
+59,Todor Živkov,115,law_social_sciences_education
+60,Jean Baudrillard,115,law_social_sciences_education
+61,  Spain,114,law_social_sciences_education
+62,Niklas Luhmann,111,law_social_sciences_education
+63,Petr Prohorovič Gureev,110,law_social_sciences_education
+64,Joseph E. Stiglitz,110,law_social_sciences_education
+65,Ulrich Beck,109,law_social_sciences_education
+66,Simone de Beauvoir,108,law_social_sciences_education
+67,Lev Davydovič Trockij,108,law_social_sciences_education
+68,Paulo Freire,107,law_social_sciences_education
+69,"  United Nations Educational, Scientific and Cultural Organization",106,law_social_sciences_education
+70,Vasyl' Oleksandrovyč Suhomlyns'kyj,106,law_social_sciences_education
+71,Dale Carnegie,105,law_social_sciences_education
+72,Philip Kotler,104,law_social_sciences_education
+73,Adam Smith,104,law_social_sciences_education
+74,Georges Duby,101,law_social_sciences_education
+75,Immanuel Maurice Wallerstein,101,law_social_sciences_education
+76,Raymond Aron,99,law_social_sciences_education
+77,Alexander Sutherland Neill,98,law_social_sciences_education
+78,  Vātsyāyana,96,law_social_sciences_education
+79,Carl Schmitt,94,law_social_sciences_education
+80,Milton Friedman,94,law_social_sciences_education
+81,James Dobson,93,law_social_sciences_education
+82,  Denmark,93,law_social_sciences_education
+83,Erving Goffman,91,law_social_sciences_education
+84,  Aristoteles,88,law_social_sciences_education
+85,  Romania,87,law_social_sciences_education
+86,Roger Hargreaves,86,law_social_sciences_education
+87,Francis Fukuyama,85,law_social_sciences_education
+88,Ross Campbell,85,law_social_sciences_education
+89,Lester Russell Brown,84,law_social_sciences_education
+90,Edvard Kardelj,84,law_social_sciences_education
+91,  Finland,84,law_social_sciences_education
+92,Hans Kelsen,84,law_social_sciences_education
+93,  Rossijskaja Sovetskaja Federativnaja Socialističeskaja Respublika,83,law_social_sciences_education
+94,Marina Kae̊tanovna Kovalevskaja,83,law_social_sciences_education
+95,Aleksandra Grigor'evna Artem'eva,83,law_social_sciences_education
+96,Celestin Freinet,82,law_social_sciences_education
+97,John Locke,82,law_social_sciences_education
+98,  Council of Europe,81,law_social_sciences_education
+99,Thomas Berry Brazelton,81,law_social_sciences_education
+0,Friedrich Wilhelm Nietzsche,833,philosophy
+1,Sigmund Freud,637,philosophy
+2,  Platon,551,philosophy
+3,Rudolf Steiner,490,philosophy
+4,Immanuel Kant,471,philosophy
+5,  Rajanīśa,445,philosophy
+6,John Gray,393,philosophy
+7,Carl Gustav Jung,380,philosophy
+8,Dale Carnegie,343,philosophy
+9,Erich Fromm,325,philosophy
+10,Joseph Murphy,322,philosophy
+11,Jiddu Krishnamurti,309,philosophy
+12,  Aristoteles,308,philosophy
+13,Martin Heidegger,306,philosophy
+14,Arthur Schopenhauer,293,philosophy
+15,Deepak Chopra,269,philosophy
+16,Louise L. Hay,265,philosophy
+17,Georg Wilhelm Friedrich Hegel,263,philosophy
+18,Jack Canfield,259,philosophy
+19,Jacques Derrida,248,philosophy
+20,Wayne W. Dyer,248,philosophy
+21,Bertrand Russell,242,philosophy
+22,René Descartes,234,philosophy
+23,Richard Carlson,230,philosophy
+24,Napoleon Hill,223,philosophy
+25,Søren Kierkegaard,215,philosophy
+26,Lucius Annaeus Seneca,208,philosophy
+27,Michel Foucault,206,philosophy
+28,Og Mandino,204,philosophy
+29,Lillian Too,192,philosophy
+30,Richard Webster,188,philosophy
+31,Allan Pease,186,philosophy
+32,Allan Kardec,186,philosophy
+33,Doreen Virtue,185,philosophy
+34,Ludwig Wittgenstein,183,philosophy
+35,Gilles Deleuze,180,philosophy
+36,Barbara De Angelis,163,philosophy
+37,Marcus Tullius Cicero,163,philosophy
+38,Daniel Goleman,159,philosophy
+39,Spencer Johnson,152,philosophy
+40,LaFayette Ronald Hubbard,152,philosophy
+41,Edward De Bono,148,philosophy
+42,Omraam Mikhaël Aïvanhov,145,philosophy
+43,Derek Parker,142,philosophy
+44,Norman Vincent Peale,140,philosophy
+45,Tony Buzan,139,philosophy
+46,Stephen R. Covey,137,philosophy
+47,Lee Carroll,131,philosophy
+48,Jean-Paul Sartre,126,philosophy
+49,Benedictus de Spinoza,123,philosophy
+50,Helena Petrovna Blavatsky,123,philosophy
+51,Edmund Husserl,119,philosophy
+52,Hans-Georg Gadamer,119,philosophy
+53,Henri Bergson,117,philosophy
+54,Paul Strathern,114,philosophy
+55,Elizabeth Clare Prophet,113,philosophy
+56,Karl Raimund Popper,109,philosophy
+57,  Liangshanzhou jiaoyu weiyuanhui,109,philosophy
+58,Shakti Gawain,106,philosophy
+59,Orison Swett Marden,105,philosophy
+60,Anthony Robbins,105,philosophy
+61,Emmanuel Lévinas,104,philosophy
+62,Desiderius Erasmus,103,philosophy
+63,Sylvia Browne,103,philosophy
+64,Brian Tracy,101,philosophy
+65,Philip J. Carter,98,philosophy
+66,Brian L. Weiss,97,philosophy
+67,  Thomas Aquinas,97,philosophy
+68,James Allen,93,philosophy
+69,Michel de Montaigne,93,philosophy
+70,Gary Chapman,92,philosophy
+71,David Hume,92,philosophy
+72,John C. Maxwell,92,philosophy
+73,Nikolaj Aleksandrovič Berdjaev,91,philosophy
+74,  Laozi,90,philosophy
+75,Raymond A. Moody,88,philosophy
+76,Francesco Alberoni,88,philosophy
+77,Jean Piaget,87,philosophy
+78,Alice Ann Bailey,86,philosophy
+79,Gottfried Wilhelm Leibniz,86,philosophy
+80,Jürgen Habermas,86,philosophy
+81,Elisabeth Kübler-Ross,85,philosophy
+82,Phillip C. McGraw,85,philosophy
+83,Umberto Eco,84,philosophy
+84,Johann Gottlieb Fichte,84,philosophy
+85,Slavoj Žižek,83,philosophy
+86,Leo F. Buscaglia,82,philosophy
+87,Paul Ricoeur,81,philosophy
+88,Robert W. Alley,81,philosophy
+89,Theodor Wiesengrund Adorno,80,philosophy
+90,Nathaniel Branden,80,philosophy
+91,Charles Webster Leadbeater,79,philosophy
+92,Esther Hicks,78,philosophy
+93,Karl Jaspers,78,philosophy
+94,Neale Donald Walsch,76,philosophy
+95,Eckhart Tolle,76,philosophy
+96,Françoise Dolto,76,philosophy
+97,Carlos Castaneda,76,philosophy
+98,Linda Goodman,76,philosophy
+99,Blaise Pascal,75,philosophy
+0,  Biblia,5770,religion
+1,  Joannes Paulus II,2053,religion
+2,  Catholica Romana Ecclesia,1068,religion
+3,  Rajanīśa,839,religion
+4,Ellen Gould White,721,religion
+5,Anselm Grün,690,religion
+6,Rudolf Steiner,684,religion
+7,  Augustinus Aurelius,577,religion
+8,  Benedictus XVI,554,religion
+9,  bsTan-'dzin-rgya-mtsho,524,religion
+10,  Qurān (al-),520,religion
+11,Carlo Maria Martini,491,religion
+12,Henri J. M. Nouwen,486,religion
+13,Derek Prince,421,religion
+14,Martin Luther,347,religion
+15,Charles Haddon Spurgeon,341,religion
+16,Mircea Eliade,324,religion
+17,Hans Urs von Balthasar,317,religion
+18,  Nhá̂t Hạnh,315,religion
+19,Chiara Lubich,293,religion
+20,Watchman Nee,291,religion
+21,  Church of Jesus Christ of Latter Day Saints,291,religion
+22,Leonardo Boff,286,religion
+23,Anthony De Mello,278,religion
+24,Kenneth E. Hagin,272,religion
+25,Witness Lee,269,religion
+26,  Sathya Sai Baba,243,religion
+27,Carlo Carretto,239,religion
+28,Clive Staples Lewis,238,religion
+29,  Thomas à Kempis,236,religion
+30,  al-Ghazzālī,232,religion
+31,M. Basilea Schlink,231,religion
+32,Roger Schutz,226,religion
+33,  Thomas Aquinas,225,religion
+34,Raniero Cantalamessa,223,religion
+35,Neale Donald Walsch,219,religion
+36,John R. W. Stott,218,religion
+37,Phil Bosmans,204,religion
+38,Sayyid Quṭb,204,religion
+39,  Chinmoy,199,religion
+40,José María Escrivá de Balaguer,194,religion
+41,Syed Abul Alā Maudūdi,189,religion
+42,Penny Frank,188,religion
+43,Joseph Murphy,187,religion
+44,Karl Barth,187,religion
+45,  Bhagavadgita,185,religion
+46,  Talmud,184,religion
+47,Emanuel Swedenborg,183,religion
+48,Karl Rahner,181,religion
+49,Josh McDowell,178,religion
+50,Hans Küng,176,religion
+51,Michel Quoist,174,religion
+52,Max Lucado,174,religion
+53,Billy Graham,171,religion
+54,Jean Calvin,164,religion
+55,Dietrich Bonhoeffer,164,religion
+56,Thomas James Merton,163,religion
+57,  Upaniṣad,163,religion
+58,  Purāṇa,162,religion
+59,  Teresa de Calcutta,159,religion
+60,Jürgen Moltmann,158,religion
+61,  Teresa de Jesús,155,religion
+62,John F. MacArthur,150,religion
+63,Karen Armstrong,148,religion
+64,Ulf Ekman,146,religion
+65,Omraam Mikhaël Aïvanhov,145,religion
+66,Bill Hybels,144,religion
+67,  Juan de la Cruz,144,religion
+68,  Joannes Chrysostomus,144,religion
+69,Elizabeth Clare Prophet,143,religion
+70,Jean Vanier,142,religion
+71,Andrew Murray,141,religion
+72,Romano Guardini,141,religion
+73,William MacDonald,140,religion
+74,Philip Yancey,140,religion
+75,  Bahā Allāh,138,religion
+76,  Laozi,136,religion
+77,Nicky Gumbel,136,religion
+78,David Martyn Lloyd-Jones,135,religion
+79,  Watchtower Bible and Tract Society,135,religion
+80,  Vivekananda,132,religion
+81,  Prabhupada,130,religion
+82,Joyce Meyer,123,religion
+83,  Francesco d'Assisi,122,religion
+84,David Wilkerson,122,religion
+85,Alfonso Maria De Liguori,119,religion
+86,William Barclay,117,religion
+87,  Ignacio de Loyola,116,religion
+88,Michael Baigent,116,religion
+89,Daisetsu Suzuki,114,religion
+90,  Thérèse de l'Enfant Jésus,114,religion
+91,Joseph Campbell,113,religion
+92,Yūsuf Al-Qaraḍāwī,111,religion
+93,Walter Trobisch,111,religion
+94,Warren W. Wiersbe,109,religion
+95,Luigi Giussani,109,religion
+96,Carlos Castaneda,106,religion
+97,Raymond Edward Brown,106,religion
+98,Lois Rock,105,religion
+99,Bill Bright,103,religion
+0,José María Parramón Vilasaló,314,art_games_sport
+1,Wendon Blake,160,art_games_sport
+2,John Hedgecoe,148,art_games_sport
+3,Richard Wagner,144,art_games_sport
+4,Ernst Hans Gombrich,142,art_games_sport
+5,Christopher Hart,131,art_games_sport
+6,Erwin Panofsky,118,art_games_sport
+7,Konstantin Sergeevič Stanislavskij,109,art_games_sport
+8,Wassily Kandinsky,108,art_games_sport
+9,  Hergé,103,art_games_sport
+10,  Disney (Walt) Productions,97,art_games_sport
+11,  Le Corbusier,95,art_games_sport
+12,Flavio Conti,95,art_games_sport
+13,Bruce Lee,93,art_games_sport
+14,Ray Smith,93,art_games_sport
+15,Michael Langford,87,art_games_sport
+16,David Macaulay,86,art_games_sport
+17,René Goscinny,86,art_games_sport
+18,Luděk Pachman,84,art_games_sport
+19,Edward Lucie Smith,83,art_games_sport
+20,Gari Kasparov,82,art_games_sport
+21,Stefano Zuffi,80,art_games_sport
+22,Michael Freeman,80,art_games_sport
+23,Salvador Dalí,79,art_games_sport
+24,Reinhold Messner,77,art_games_sport
+25,Rudolf Arnheim,77,art_games_sport
+26,John Berger,76,art_games_sport
+27,Anatolij Evgen'evič Karpov,75,art_games_sport
+28,Masatoshi Nakayama,74,art_games_sport
+29,Francesco Maria Piave,74,art_games_sport
+30,Hazel Harrison,73,art_games_sport
+31,Giorgio Vasari,73,art_games_sport
+32,Theodor Wiesengrund Adorno,72,art_games_sport
+33,Federico Fellini,70,art_games_sport
+34,Aleksej Stepanovič Sue̊tin,70,art_games_sport
+35,Roland Barthes,69,art_games_sport
+36,Henri Stierlin,69,art_games_sport
+37,Wolfgang Amadeus Mozart,68,art_games_sport
+38,Jurij L'vovič Averbah,66,art_games_sport
+39,Betty Edwards,66,art_games_sport
+40,Gilles Néret,66,art_games_sport
+41,Bill Watterson,65,art_games_sport
+42,Sergej Mihajlovič E̊jzenštejn,65,art_games_sport
+43,Werner Blaser,65,art_games_sport
+44,Lorenzo Da Ponte,65,art_games_sport
+45,Clive Gifford,64,art_games_sport
+46,Christian Parma,64,art_games_sport
+47,Marcus Vitruvius Pollio,63,art_games_sport
+48,Leonardo Benevolo,62,art_games_sport
+49,Peter Brook,61,art_games_sport
+50,Raymond M. Smullyan,61,art_games_sport
+51,Bradley Trevor Greive,60,art_games_sport
+52,Kenneth Clark,58,art_games_sport
+53,Ingmar Bergman,58,art_games_sport
+54,Giuseppe Giacosa,57,art_games_sport
+55,Giulio Carlo Argan,56,art_games_sport
+56,Francisco Asensio Cerver,56,art_games_sport
+57,Christian Norberg-Schulz,55,art_games_sport
+58,  GDCh Advisory Committee on Existing Chemicals of Environmental Relevance,55,art_games_sport
+59,Michael Busselle,54,art_games_sport
+60,Terence Conran,54,art_games_sport
+61,  Moebius,54,art_games_sport
+62,Musashi Miyamoto,53,art_games_sport
+63,Antonin Artaud,53,art_games_sport
+64,Sergej Grigor'evič Popov,52,art_games_sport
+65,Susan Sontag,52,art_games_sport
+66,Judy Martin,51,art_games_sport
+67,Bob Anderson,50,art_games_sport
+68,Bryn Campbell,50,art_games_sport
+69,Heinrich Wölfflin,50,art_games_sport
+70,Andrej Arsen'evič Tarkovskij,50,art_games_sport
+71,Scott Kelby,49,art_games_sport
+72,Carl Dahlhaus,49,art_games_sport
+73,Alessandra Mauro,49,art_games_sport
+74,Stan Smith,48,art_games_sport
+75,David Brown,48,art_games_sport
+76,Philip Jodidio,47,art_games_sport
+77,Cheryl Owen,47,art_games_sport
+78,Martin Gardner,47,art_games_sport
+79,Georges Duby,46,art_games_sport
+80,Kenneth Frampton,46,art_games_sport
+81,Umberto Eco,46,art_games_sport
+82,  Time-Life Books,46,art_games_sport
+83,Lucy Cousins,46,art_games_sport
+84,Christopher Hilton,45,art_games_sport
+85,Jenő Barcsay,45,art_games_sport
+86,Charlotte Fiell,45,art_games_sport
+87,José Pijoan,45,art_games_sport
+88,Pablo Picasso,44,art_games_sport
+89,Robert Cumming,44,art_games_sport
+90,Jack Botermans,44,art_games_sport
+91,  Leonardo da Vinci,43,art_games_sport
+92,François Truffaut,42,art_games_sport
+93,Hugh Walter Kelsey,42,art_games_sport
+94,David Sanmiguel Cuevas,42,art_games_sport
+95,Jon Krakauer,42,art_games_sport
+96,André Chastel,42,art_games_sport
+97,Bruno Munari,41,art_games_sport
+98,Vicenç B. Ballestar,41,art_games_sport
+99,Lance Armstrong,41,art_games_sport
+0,  Disney (Walt) Productions,9272,literature
+1,Agatha Christie,7239,literature
+2,Jules Verne,4749,literature
+3,William Shakespeare,4301,literature
+4,Enid Blyton,3919,literature
+5,Barbara Cartland,3740,literature
+6,Danielle Steel,3609,literature
+7,Hans Christian Andersen,3487,literature
+8,Stephen King,3314,literature
+9,Jacob Grimm,2845,literature
+10,Nora Roberts,2559,literature
+11,Alexandre Dumas,2530,literature
+12,Arthur Conan Doyle,2451,literature
+13,Mark Twain,2365,literature
+14,Fedor Mihajlovič Dostoevskij,2359,literature
+15,Georges Simenon,2318,literature
+16,Robert L. Stine,2211,literature
+17,René Goscinny,2209,literature
+18,Jack London,2197,literature
+19,Astrid Lindgren,2194,literature
+20,Charles Dickens,2092,literature
+21,Lev Nikolaevič Tolstoj,2089,literature
+22,Robert Louis Stevenson,1949,literature
+23,Sidney Sheldon,1733,literature
+24,Oscar Wilde,1687,literature
+25,Victoria Holt,1653,literature
+26,Isaac Asimov,1636,literature
+27,Honoré de Balzac,1614,literature
+28,Ernest Hemingway,1568,literature
+29,Hermann Hesse,1519,literature
+30,Robert Ludlum,1506,literature
+31,Anton Pavlovič Čehov,1479,literature
+32,Dean R. Koontz,1473,literature
+33,Mary Higgins Clark,1426,literature
+34,Franz Kafka,1408,literature
+35,John Ronald Reuel Tolkien,1407,literature
+36,Edgar Allan Poe,1402,literature
+37,Rudyard Kipling,1376,literature
+38,Alistair MacLean,1354,literature
+39,Ruth Rendell,1348,literature
+40,Gabriel García Márquez,1340,literature
+41,James Hadley Chase,1335,literature
+42,Johann Wolfgang von Goethe,1331,literature
+43,John Grisham,1251,literature
+44,Wilbur A. Smith,1225,literature
+45,Charles Perrault,1217,literature
+46,Roald Dahl,1216,literature
+47,Daniel Defoe,1198,literature
+48,Sandra Brown,1174,literature
+49,Antoine de Saint-Exupéry,1172,literature
+50,Robin Cook,1159,literature
+51,Penny Jordan,1146,literature
+52,Graham Greene,1096,literature
+53,Edgar Wallace,1091,literature
+54,Ken Follett,1091,literature
+55,Ed McBain,1089,literature
+56,Paulo Coelho,1086,literature
+57,  Homeros,1086,literature
+58,Jane Austen,1084,literature
+59,John Le Carré,1084,literature
+60,Erle Stanley Gardner,1080,literature
+61,Jack Higgins,1077,literature
+62,Lewis Carroll,1074,literature
+63,Aleksandr Sergeevič Puškin,1050,literature
+64,Harold Robbins,1045,literature
+65,Victor Hugo,1040,literature
+66,Tom Clancy,1018,literature
+67,Hedwig Courths-Mahler,1016,literature
+68,Milan Kundera,997,literature
+69,  Hergé,986,literature
+70,Guy de Maupassant,981,literature
+71,Patricia Vandenberg,979,literature
+72,Maksim Gor'kij,977,literature
+73,Joseph Conrad,976,literature
+74,Alan Alexander Milne,961,literature
+75,Gustave Flaubert,960,literature
+76,Khalīl Gibrān,958,literature
+77,Heinz Günther Konsalik,957,literature
+78,Albert Camus,944,literature
+79,Frederick Forsyth,943,literature
+80,  Alf laila wa-laila,938,literature
+81,Terry Pratchett,932,literature
+82,John Steinbeck,922,literature
+83,Umberto Eco,918,literature
+84,Thomas Brezina,916,literature
+85,Italo Calvino,915,literature
+86,Isaac Bashevis Singer,912,literature
+87,Patricia Highsmith,908,literature
+88,Patricia Daniels Cornwell,905,literature
+89,Karl May,897,literature
+90,Charles Monroe Schulz,889,literature
+91,Phyllis Dorothy James,869,literature
+92,Émile Zola,854,literature
+93,Jim Davis,853,literature
+94,Virginia C. Andrews,853,literature
+95,David Herbert Lawrence,848,literature
+96,Lucy Maud Montgomery,846,literature
+97,Clive Cussler,838,literature
+98,Johanna Lindsey,835,literature
+99,Thomas Mann,831,literature
+0,  Editorial Escudo de Oro,231,history_geography_biography
+1,Jacques Le Goff,217,history_geography_biography
+2,Anne Frank,211,history_geography_biography
+3,Stefan Zweig,210,history_geography_biography
+4,Fernand Braudel,198,history_geography_biography
+5,Eric John Hobsbawm,186,history_geography_biography
+6,Georges Duby,183,history_geography_biography
+7,Titus Maccius Livius,183,history_geography_biography
+8,Publius Cornelius Tacitus,181,history_geography_biography
+9,Caius Julius Caesar,174,history_geography_biography
+10,Henri Troyat,167,history_geography_biography
+11,Winston Spencer Churchill,167,history_geography_biography
+12,Leonid Il'ič Brežnev,156,history_geography_biography
+13,Terry Deary,144,history_geography_biography
+14,Thor Heyerdahl,144,history_geography_biography
+15,  Herodotus,143,history_geography_biography
+16,Ryszard Kapuściński,143,history_geography_biography
+17,  Plutarchus,140,history_geography_biography
+18,Flavius Josephus,136,history_geography_biography
+19,Fedor Petrovič Korovkin,134,history_geography_biography
+20,Fiona Macdonald,130,history_geography_biography
+21,Shirley MacLaine,130,history_geography_biography
+22,Ekaterina Vasil'evna Agibalova,129,history_geography_biography
+23,Antony Beevor,127,history_geography_biography
+24,Barbara W. Tuchman,126,history_geography_biography
+25,Marco Polo,125,history_geography_biography
+26,Nikolaj Aleksandrovič Maksimov,122,history_geography_biography
+27,Ivan Antonovič Fedosov,121,history_geography_biography
+28,  Time-Life Books,118,history_geography_biography
+29,Tim Jepson,117,history_geography_biography
+30,Marcus Tullius Cicero,116,history_geography_biography
+31,Lev Solomonovič Gellerštejn,114,history_geography_biography
+32,Isaac Asimov,114,history_geography_biography
+33,Philipp Vandenberg,110,history_geography_biography
+34,Guido Knopp,109,history_geography_biography
+35,Sebastian Haffner,109,history_geography_biography
+36,Will Durant,108,history_geography_biography
+37,Anne Millard,107,history_geography_biography
+38,Andrew Morton,107,history_geography_biography
+39,"Ernesto ""Che"" Guevara",106,history_geography_biography
+40,Valentina Aleksandrovna Korinskaja,106,history_geography_biography
+41,Jack Altman,106,history_geography_biography
+42,Peter Burke,106,history_geography_biography
+43,Caius Suetonius Tranquillus,105,history_geography_biography
+44,Philippe Gloaguen,105,history_geography_biography
+45,  Reader's digest,102,history_geography_biography
+46,David Irving,100,history_geography_biography
+47,John Morris Roberts,99,history_geography_biography
+48,Jean P. Sasson,98,history_geography_biography
+49,Bernard Lewis,97,history_geography_biography
+50,Edward Gibbon,96,history_geography_biography
+51,Klaus Bötig,94,history_geography_biography
+52,Caius Sallustius Crispus,93,history_geography_biography
+53,André Maurois,92,history_geography_biography
+54,Il'ja Borisovič Berhin,92,history_geography_biography
+55,Lev Davydovič Trockij,91,history_geography_biography
+56,Rie Jerichow,90,history_geography_biography
+57,Ian Kershaw,90,history_geography_biography
+58,Edward Hallett Carr,90,history_geography_biography
+59,Aleksandr Ivanovič Solov'ev,90,history_geography_biography
+60,Christopher Catling,89,history_geography_biography
+61,Arnold Joseph Toynbee,89,history_geography_biography
+62,Aleksej Vladimirovič Efimov,88,history_geography_biography
+63,Emmanuel Le Roy Ladurie,88,history_geography_biography
+64,John Reed,87,history_geography_biography
+65,Carl Grimberg,86,history_geography_biography
+66,Régine Pernoud,86,history_geography_biography
+67,Paul Johnson,85,history_geography_biography
+68,Miloslav Stingl,85,history_geography_biography
+69,Antun Travirka,84,history_geography_biography
+70,Tuesday Lobsang Rampa,84,history_geography_biography
+71,Emil Ludwig,84,history_geography_biography
+72,Anita Ganeri,82,history_geography_biography
+73,Teresio Bosco,82,history_geography_biography
+74,Jung Chang,82,history_geography_biography
+75,Simon Adams,82,history_geography_biography
+76,Peter Mayle,81,history_geography_biography
+77,Erich von Däniken,80,history_geography_biography
+78,Jacob Burckhardt,80,history_geography_biography
+79,Philippe Ariès,79,history_geography_biography
+80,Wolfgang Kootz,78,history_geography_biography
+81,Hannah Arendt,78,history_geography_biography
+82,Michael Grant,78,history_geography_biography
+83,Gian Paolo Ceserani,78,history_geography_biography
+84,Philip Steele,77,history_geography_biography
+85,Roger Williams,77,history_geography_biography
+86,Joachim C. Fest,75,history_geography_biography
+87,Curt Wilhelm Ceram,75,history_geography_biography
+88,E̊dvard Stanislavovič Radzinskij,75,history_geography_biography
+89,Martin Gilbert,74,history_geography_biography
+90,Johan Huizinga,74,history_geography_biography
+91,Marc Lacouture,73,history_geography_biography
+92,Marie-Thérèse Cuny,73,history_geography_biography
+93,Christopher Rice,72,history_geography_biography
+94,Pavel Solomonovič Lejbengrub,72,history_geography_biography
+95,Romain Rolland,72,history_geography_biography
+96,  Xenophon,72,history_geography_biography
+97,Viktor Suvorov,72,history_geography_biography
+98,Heinrich Harrer,72,history_geography_biography
+99,François Furet,71,history_geography_biography
