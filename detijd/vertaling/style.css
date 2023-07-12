@@ -152,6 +152,17 @@ header {
 
 }
 
+p {
+    font-size: 15px;
+    font-family: 'Open Sans';
+
+}
+
+
+circle {
+    cursor: pointer;
+}
+
 ul {
     list-style-type: none;
     padding-left:0;

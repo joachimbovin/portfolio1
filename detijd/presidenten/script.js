@@ -129,7 +129,7 @@ d3.csv("dataPresidentImages2.csv", function(data) {
     .append("circle")
       .attr("cx", function (d) { return x(d.dateStart); } )
       .attr("cy", function (d) { return y(d.ageStart); } )
-      .attr("r", function (d) { return z(d.ageStart); } )
+      .attr("r", function (d) { return z(60); } )
       .style("fill",
       
       //"url(#jon-snow)"

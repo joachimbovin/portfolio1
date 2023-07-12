@@ -82,11 +82,11 @@ var author = "None";
             // .attr("cx", 100)
             // .attr("cy", 300)
             .on('click', function(d) {
-                document.getElementById('author').innerHTML = "Author: " + d.full_name;
-                document.getElementById('frequency').innerHTML = "Number of translated texts: " + d.freq;
+                document.getElementById('author').innerHTML = "Naam: " + d.full_name;
+                document.getElementById('frequency').innerHTML = "Aantal vertaalde teksten: " + d.freq;
                 document.getElementById('genre').innerHTML = "Genre: " + d.genre
                 get_picture(d.full_name)
-                d3.select(this).attr("style", "stroke:black");
+             //  d3.select(this).attr("style", "stroke:black");
 
                 /*            d3.select(this).attr("r", function(d) {
                                 return radiusScale(d.freq) + 20
@@ -143,11 +143,6 @@ function get_picture(author) {
 
         get_QID(author)
 
-        //get_image()
-        //var name = $("#author");
-        //var name = author
-        //var name = d.full_name
-        //var name = document.getElementById('author').innerHTML
     })
 }
 
@@ -163,15 +158,9 @@ function get_QID(author) {
         success: function (result) {
 
             var Q_ID = result.query.search[0]["title"];   //pageid (?)
-
-
             get_image(Q_ID)
             get_country_id(Q_ID)
-
-
-
         }
-
     })
 }
 
@@ -184,7 +173,6 @@ function get_image(Q_ID) {
 
         url: "https://www.wikidata.org/w/api.php?action=wbgetclaims&format=json&entity=" + Q_ID + "&origin=*",
 
-
         success: function (result) {
             $( "#results" ).empty();
             var item = result.claims.P18[0].mainsnak.datavalue.value;
@@ -195,7 +183,9 @@ function get_image(Q_ID) {
 
             //doesn't work all the time, probably an encoding (utf-8) problem e.g. Q457 > = île-de-blabla, doesn't work!
 
-            var output = "<img id='img' src='https://upload.wikimedia.org/wikipedia/commons/" + number_1 + "/" + number_2 + "/" + new_item + "'>"
+            var output = "<img id='img' alt='(afbeelding niet beschikbaar)' src='https://upload.wikimedia.org/wikipedia/commons/" + number_1 + "/" + number_2 + "/" + new_item + "'>"
+            console.log(output)
+
             $("#results").append(output);
 
         },
@@ -237,7 +227,7 @@ function show_country(country_ID) {
         success: function (result) {
             $("#country").empty();
             var country_name = result.claims.P935[0].mainsnak.datavalue.value;
-            $("#country").append("Country of origin:" + country_name);
+            $("#country").append("Land: " + country_name);
 
 
         },
@@ -263,52 +253,3 @@ function show_country(country_ID) {
 
 
 
-
-/*
-
-function ready (error, datapoints) {
-
-    d3.select("#literature").on("click", function() {
-        console.log("hello")
-        make_bubbles(error, datapoints, "literature")
-
-    })
-
-    d3.select("#philosophy").on("click", function() {
-        console.log("hello")
-        make_bubbles(error, datapoints, "philosophy")
-
-    })
-
-
-    function make_bubbles(error, datapoints, genre) {
-
-
-}*/
-
-
-/*
-
-.attr("fill", function(d) {
-    if (d.genre === "religion") {
-        return "#9FB8B1";
-    } else if (d.genre === "philosophy") {
-        return "#F67280";
-    } else if (d.genre === "law_social_sciences_education") {
-        return "#C06C84";
-    }  else if (d.genre === "applied_sciences") {
-        return "#6C5B7B";
-    }  else if (d.genre === "exact_sciences") {
-        return "#355C7D";
-    }  else if (d.genre === "art_games_sport") {
-        return "#655131";
-    } else if (d.genre === "literature") {
-        return "#357D59";
-    } else if (d.genre === "history_geography_biography") {
-        return "#BB654E";
-    }
-    return "#355C7D";
-})
-
-
-*/
