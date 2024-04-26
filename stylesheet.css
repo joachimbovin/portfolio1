@@ -132,5 +132,11 @@ ul {
 #imageName {
     height: 100px;
     width: auto;
-    margin-left: 5%;
+    margin-left: 25%;
+}
+
+@media (max-width: 400px) {
+    #imageName {
+        height: 70px;
+    }
 }
