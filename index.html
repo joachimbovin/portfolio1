@@ -1,52 +1,153 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+    <script src="functions.js" defer> </script>
     <meta charset="UTF-8">
-    <title>Portfolio</title>
-  <link rel="stylesheet" href="stylesheet.css">
-    <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="stylesheet.css" rel="stylesheet">
+    <title>Joachim Bovin | Portfolio</title>
 </head>
+
+<style>
+
+
+</style>
+
 <body>
 
+    <div class="grid-container">
+        <nav class="grid-sub-container-nav">
+            <div> 
+          <img src="joachim.png" id="imageName">  
+            </div> 
+            <div> </div>
+            <div> 
+           <!-- <ul>
+                <li> Linkedin</li>
+                <li> </li>
+            </ul>--> 
+            </div>
+        </nav>
+        <header> <p>  Joachim Bovin is a teacher, programmer & musician based in Brussels.
+            Between 2018 and 2023 he worked as an educational policy advisor at the Faculty of Arts of the KULeuven
+            for a number faculty wide courses related to use of digital technologies in the humanities.
 
-<div class="flex-container">
-    <div style="flex-grow: 8"></div>
-</div>
+            He is the founder of record label and radio show <a href="http://www.anteriorinsula.com"> Anterior Insula </a> and resident DJ at Kiosk Radio as
+            <a href="https://acastagneiss.github.io/"> Acasta Gneiss </a>.
+            </p>
+            <p>  For inquieries please find my contact information and full resumé on <a href="https://www.linkedin.com/in/joachimbovin/"> LinkedIn </a>. </p> 
+        </header>
 
+        <main>
+            <div class="grid-sub-container-main">
+                <div>  </div>
+                <!-- start grid -->
+                <div>
+                    <p> <em> Selected Projects </em></p>
 
-<div class="flex-container">
-    <div style="flex-grow: 1">
-    <p> <a href="index.html"> about </a> </p>
-     <!--   <p> <a href="music.html">  music</a> </p>-->
-      <!--  <p> <a href="collages.html"> collages </a></p> -->
-        <p> <a href="code.html"> code </a> </p>
-        <p> <a href="photography.html"> photography </a></p>
+                    <!-- 1 -->
+                    <article class="collapsible">
+                        <p> Participatieve Pers </p>
+                        <p> 2024 </p>
+                    </article>
+                    <div class="content">
+                        <p>Shared Jekyll blog about culture with articles by different
+                             authors with different opinions. 
+
+                        </p>
+                        <a href="https://www.participatievepers.be">  Project website </a>
+
+                    </div>
+                    <!--  help -->
+
+                    <article class="collapsible">
+                        <p>  Stasis
+                        </p>
+                        <p> 2023 </p>
+                    </article>
+                    <div class="content">
+      <p> 
+                         Audiovisual installation  created for De Week van de Klank ~ La Semaine du Son 2024 using the SuperCollider programming language.
+                          It investigates the concept of stasis as a state 
+                        of equilibrium in which things do not change, move,
+                         or progress.
+                        </p>
+                        <a href="https://acastagneiss.github.io/stasis.html"> Project website </a>
+                    </div>
+
+                    <!-- 2 -->
+                    <article class="collapsible">
+                        <p> Bibliotech Hackaton </p>
+                        <p> 2023 </p>
+                    </article>
+                    <div class="content">
+                        <p>
+                            In 2023, from the 13th to the 23rd of March, KU Leuven Libraries, the Faculty of
+                             Arts and the Humanities and Social Sciences Group organized a hackathon. 
+                              This event offered an inspiring context for developing digital skills. It brought
+                               together people of all backgrounds with a keen interest in digital tools and 
+                               introduced participants to the library's digitized collections. 
+        
+                        </p>
+                        <p> 
+                            As team leader I had the pleasure to work with a group of students on the Bible of Anjou, a richly illuminated manuscript from c. 1340.
+                             After years of being hidden from the public eye (683 years to be exact), the Anjou Bible is now publicly available 
+                             in digital format. However, due to the immense scope of the work, the detailed miniatures 
+                             that populate the pages of the book are often overlooked. 
+                            This project proposes a new way to interact with this historical artefact.  </p>
+                                                  <a href="https://www.arts.kuleuven.be/hackathon/group1/">  Project website </a>
+                    </div>
+      
+                                      <!-- 5 -->
+
+                    <article class="collapsible">
+                        <p> Anterior Insula </p>
+                        <p> 2019 </p>
+                    </article>
+                    <div class="content">
+                        <p> Radio show and record label from Brussels, Belgium with sounds to stimulate your anterior insula.
+                            </p>
+                            <a href="www.anteriorinsula.com"> Project website</a>
+                    </div>
+                              <!-- 4 -->
+                                            <!-- 3 -->
+                    <article class="collapsible">
+                        <p> Metadata exchange in the cultural heritage sector</p>
+                        <p> 2018 </p>
+                    </article>
+                    <div class="content">
+                        <p>
+                            A Python module to export Kunstenpunt 
+                            metadata to Meemoo (formerly VIAA).This project examines the problem of database interoperability in
+                            the cultural heritage sector. Interoperability solutions could make it possible to share and reuse
+                             information stored in databases curated by cultural heritage institutions in order to aid in the discovery of digital cultural content. 
+                          <p> 
+                             Written as part of the Digital Humanities advanced master program
+                              during an internship at Kunstenpunt. </p>
+                              <a href="https://github.com/joachimbovin/KP2VIAA">  Project website </a>
+                        </p>
+                    </div>
+                         <!--     <article class="collapsible">
+                                <p> Quatro Tuner </p>
+                                <p> 2018 </p>
+                            </article>
+                            <div class="content">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            </div>--> 
+                </div>
+                <!-- end grid -->
+                <div>  </div>
+            </div>
+        </main>
+        <footer id="footer">
+         <p id="update">    Last updated on 25-04-2024 </p>
+        </footer>
 
     </div>
-    <div style="flex-grow: 7">
-
-        <p> // about // </p>
-     <!--   <hr style="height:2px;border-width:0;color:gray;background-color:black; margin-right:15%;">   -->      <!--<p> <---- collection of various projects  </p>-->
-
-        <p class="margin-right"> Joachim Bovin is a teacher, musician & programmer based in Brussels. He is
-            currently employed as a teaching assistant at the Faculty of Arts of the KULeuven for a number
-            faculty wide courses related to use of digital technologies in the humanities. He is interested in the data visualisations, static websites &
-            the influence of new technologies on cultural practices. He is the founder of record label and radio show <a href="http://www.anteriorinsula.com"> Anterior Insula </a> and resident DJ at Kiosk Radio.</p>
-
-
-        <p>  For full resume & contact information please visit  <a href="https://www.linkedin.com/in/joachimbovin/"> Linkedin </a> </p>
-
-<!--
-<img style="margin-top:20px; height:50%;" src="images/AG_PHOTO.jpg">-->
-
-
-   <!-- <img style="margin-top:20px" src="images/16600036.JPG">-->
-
-    </div>
-</div>
 
 </body>
+
 </html>

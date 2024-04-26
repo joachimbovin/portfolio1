@@ -1,52 +1,136 @@
-.flex-container {
-    display: flex;
-    align-items: stretch;
-    flex-direction: row;
 
-    /* background-color: #f1f1f1; */
-}
-
-.flex-container > div {
-   /* background-color: DodgerBlue;
-    color: white; */
-    margin: 10px;
-    text-align: left;
-    /*line-height: 75px; */
-}
+/****** body *********/ 
 
 body {
+    /* background-color: rgb(232, 232, 232); */
+     height: 100vh;
+     font-size: 1.1em;
+     font-family: Helvetica, Arial, sans-serif;
+     margin: 0%;
+ 
+ 
+ }
 
-    font-family: "Helvetica Neue", "Arial", sans-serif;
-    /* 'Cutive Mono', monospace; */
-    font-size: 15px;
 
+/****** text ********/ 
 
+header p { 
+margin-left: 5%;
+margin-right: 5%;
 }
 
-img {
-    max-width: 90%;
+#footer {
+    display: flex;
+    flex-direction: column;
 }
 
-.margin-right {
-
-    margin-right: 15%;
+#update {
+    margin-top: auto;
+    font-size: 0.7em;
 }
 
+/**** grid page ******/ 
 
-/* Responsive layout - makes a one column layout instead of a two-column layout */
-@media screen and (max-width: 800px) {
-    .flex-container {
-        flex-direction: column !important;
+.grid-container {
+    min-height: 100%;
+    min-width: auto;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 100px auto auto 100px; 
+    grid-template-areas: 
+        "n n n"
+        "h h h"
+        "c c c"
+        "f f f"
+    
     }
+
+
+    nav {
+        grid-area: n;
+        margin: 0%;
+    
+        }
+    
+    header {
+    grid-area: h;
+
+
+    }
+    
+
+    
+    main {
+    grid-area: c;
+
+
+    }
+    
+    
+    footer {
+    grid-area: f;
+
+    }
+
+    
+    
+
+/***** sub grid main ***********/ 
+
+.grid-sub-container-main {
+    display: grid;
+    grid-template-columns: 10% auto 10%;
+    grid-template-rows: 1fr;
 }
 
+
+/***** sub grid nav ***********/ 
+
+.grid-sub-container-nav {
+
+    display: grid;
+    grid-template-columns: 20% auto 20%;
+    grid-template-rows: 1fr;
+
+}
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;}
-
-li {
-    margin-top: 30px;
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
 }
 
+
+ /****** articles ************/ 
+    
+ .collapsible {
+    transition: all 0.25s;
+
+    display: flex;
+    padding: 0px 0px;
+    border-bottom: 1px solid;
+    justify-content: space-between;
+    cursor: pointer;
+    
+
+}
+
+.collapsible:hover {
+    opacity: 0.5;
+}
+
+    .content {
+        display: none;
+        transition: all 0.25s;
+
+    }
+    
+
+
+/******** images **********/ 
+
+#imageName {
+    height: 100px;
+    width: auto;
+    margin-left: 5%;
+}
