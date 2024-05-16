@@ -30,6 +30,7 @@ margin-right: 5%;
 #update {
     margin-top: auto;
     font-size: 0.7em;
+    text-align: center;
 }
 
 /**** grid page ******/ 
@@ -107,8 +108,6 @@ ul {
  /****** articles ************/ 
     
  .collapsible {
-    transition: all 0.25s;
-
     display: flex;
     padding: 0px 0px;
     border-bottom: 1px solid;
@@ -122,12 +121,19 @@ ul {
     opacity: 0.5;
 }
 
+    
     .content {
-        display: none;
-        transition: all 0.25s;
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.15s ease-out;
 
     }
+    .content.active {
+        max-height: 500px;
+        transition: max-height 0.25s ease-in;   
+     }
     
+
 
 
 /******** images **********/ 
@@ -141,5 +147,6 @@ ul {
 @media (max-width: 400px) {
     #imageName {
         height: 70px;
+        margin-top: 20px;
     }
 }
